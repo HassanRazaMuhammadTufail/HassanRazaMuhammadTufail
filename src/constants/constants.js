@@ -15,7 +15,7 @@ export const projects = [
     source: '#',
     visit: 'https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/',
     id: 99,
-    live: "Live"
+    live: "Disable"
   },
   {
     title: 'KB-Shop App',
@@ -25,7 +25,7 @@ export const projects = [
     source: '#',
     visit: 'https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/',
     id: 1,
-    live: "Live"
+    live: "Disable"
   },
   {
     title: 'Peredion App',
