@@ -1,5 +1,25 @@
 export const projects = [
   {
+    title: 'LosPollos App',
+    description: `Lospollos app is an online food delivery app, its a simple service to order food from a variety of restaurants online. I worked on this app from scratch, made 45 screens(Android and IOS)`,
+    image: '/images/LosPollos.png',
+    tags: ['React Native', 'React', 'Stripe', 'Geolocation', 'RN Step Indicator'],
+    source: '#',
+    visit: 'https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/',
+    id: 99,
+    live: "Only Alpha Build"
+  },
+  {
+    title: 'ORMELive App',
+    description: `ORMELive is the upgraded version of Longaberger and KBshop, there are lots of new features in our app, like login with phone number, connect wallet Paypal, influencer profile, deep linking, video share on instagram, facebook, whatsapp and contact no and expend the filter categories.`,
+    image: '/images/OrmeLive.png',
+    tags: ['React Native', 'Paypal', 'AWZ Services', 'Cross Platform', ''],
+    source: '#',
+    visit: 'https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/',
+    id: 99,
+    live: "Live"
+  },
+  {
     title: 'Longaberger App',
     description: `GO LIVE FROM ANYWHERE
     Live streaming in minutes from desktop or mobile
@@ -9,7 +29,7 @@ export const projects = [
     Brands boost traffic and increase sales
     Experience with React Native and its ecosystem
     Solid understanding of API integrations
-    FFMPG used for audio and video merging, adds some functionalities like TIKTOK for making product reviews`,
+    FFMPG used for audio and video merging, adds some functionalities like Flip.shop, Rakuten, TIKTOK for making product reviews`,
     image: '/images/longaberger.jpg',
     tags: ['React Native', 'React', 'AWZ Services', 'FFMPG', 'SDKs'],
     source: '#',
@@ -21,7 +41,7 @@ export const projects = [
     title: 'KB-Shop App',
     description: "KBSHOP is a shopping app connecting customers with influencers and brands to bring curated products and services. Customers get exclusive deals on products from influencers and brands you love. Search millions of products from thousands of brands and check out all the latest looks. Share products you like with your friends and family and even earn a commission.",
     image: '/images/KBShop.png',
-    tags: ['React Native', 'Cross Platform', 'FCM', 'Geo Location'],
+    tags: ['React Native', 'Cross Platform', 'FCM', 'GeoLocation'],
     source: '#',
     visit: 'https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/',
     id: 1,
@@ -31,7 +51,7 @@ export const projects = [
     title: 'Peredion App',
     description: "Peredion is a sports prediction. Its offers you all the best online prediction from every corner of the planet with thousands of online prediction markets",
     image: '/images/Peredion.png',
-    tags: ['React Native', 'Notification', 'FCM', 'Geo Location'],
+    tags: ['React Native', 'Notification', 'FCM', 'GeoLocation'],
     source: '#',
     visit: 'https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/',
     id: 2,
