@@ -1,5 +1,9 @@
 import styled from "styled-components";
 
+export const JobPoints = styled.span`
+  padding-left: 25px;
+`
+
 export const Img = styled.img`
   width: 100%;
   height: 100%;
@@ -39,14 +43,14 @@ export const TitleContent = styled.div`
   width: 100%;
   margin-top: 4rem;
   margin-bottom: 0.7em;
-  color: #9cc9e3;
+  color: #a7cc9b;
   font-size: 1.8rem;
 `;
 
 export const HeaderThree = styled.h3`
   font-weight: 500;
   letter-spacing: 2px;
-  color: #9cc9e3;
+  color: #a7cc9b;
   padding: 0.5rem 0;
   margin-top: 1rem;
   font-size: ${(props) => (props.title ? "3rem" : "2rem")};

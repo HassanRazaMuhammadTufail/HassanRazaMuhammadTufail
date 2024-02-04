@@ -32,14 +32,14 @@ export default class MyDocument extends Document {
       <Html lang='en-GB'>
         <Head>
           <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-          <meta name="title" content="Ahsan Muneer - React Native & React Dev" />
-          <meta name="description" content="Hey there, This is Ahsan Muneer. Inquisitive and Highly-motivated software engineer, with strong web and mobile application skills. Forward-thinker by nature and loves to code. Spends most of my time learning and experimenting with anything that looks promising.   " />
+          <meta name="title" content="Hassan Raza - Sr. Full Stack Engr" />
+          <meta name="description" content="Hey there, This is Hassan Raza. Passionate, Dynamic and Highly-motivated Seasoned Software Engineer, with expertise in full stack engineering. Having good experience in managing and leading teams. Proactive and collaborative by nature. Interests in learning, networking and experimenting with new technologies around." />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Ahsan Muneer - React Native & React Dev" />
-          <meta property="og:description" content="Hey there, This is Ahsan Muneer. Inquisitive and Highly-motivated software engineer, with strong web and mobile application skills. Forward-thinker by nature and loves to code. Spends most of my time learning and experimenting with anything that looks promising.   " />
+          <meta property="og:title" content="Hassan Raza - Sr. Full Stack Engr" />
+          <meta property="og:description" content="Hey there, This is Hassan Raza. Passionate, Dynamic and Highly-motivated Seasoned Software Engineer, with expertise in full stack engineering. Having good experience in managing and leading teams. Proactive and collaborative by nature. Interests in learning, networking and experimenting with new technologies around." />
           <meta property="twitter:card" content="summary_large_image" />
-          <meta property="twitter:title" content="Ahsan Muneer - React Native & React Dev" />
-          <meta property="twitter:description" content="Hey there, This is Ahsan Muneer. Inquisitive and Highly-motivated software engineer, with strong web and mobile application skills. Forward-thinker by nature and loves to code. Spends most of my time learning and experimenting with anything that looks promising.   " />
+          <meta property="twitter:title" content="Hassan Raza - Sr. Full Stack Engr" />
+          <meta property="twitter:description" content="Hey there, This is Hassan Raza. Passionate, Dynamic and Highly-motivated Seasoned Software Engineer, with expertise in full stack engineering. Having good experience in managing and leading teams. Proactive and collaborative by nature. Interests in learning, networking and experimenting with new technologies around." />
        
         </Head>
         <body>

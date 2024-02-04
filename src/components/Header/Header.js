@@ -8,7 +8,7 @@ const Header = () => (
     <Div1>
       <Link href="/" legacyBehavior>
         <a style={{ display: 'flex', alignItems: 'center', color: "white" }}>
-          <img src="/logo.svg" height={40} width={40} /> <span style={{ marginLeft: 10, marginTop: 7, fontSize: 20 }} >Ahsan Muneer</span>
+          <img src="logo.png" height={40} width={40} /> <span style={{ marginLeft: 10, marginTop: 7, fontSize: 20 }} ></span>
         </a>
       </Link>
     </Div1>
@@ -35,10 +35,10 @@ const Header = () => (
       </li> */}
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/ahsanmunyr">
+      <SocialIcons href="https://github.com/HassanRazaMuhammadTufail">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/ahsan-muneer">
+      <SocialIcons href="https://www.linkedin.com/in/hassan-memon">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
     </Div3>

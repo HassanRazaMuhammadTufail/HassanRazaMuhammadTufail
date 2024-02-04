@@ -10,20 +10,20 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:ahsanmuneer81@gmail.com">
-          ahsanmuneer81@gmail.com
+          <LinkItem href="mailto:hassanrazamohammadtufail@gmail.com">
+          hassanrazamohammadtufail@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; 2022 <Link href="#">  Ahsan Muneer</Link> . All rights reserved.</Slogan>
+          <Slogan>&copy; 2022 <Link href="#">  Hassan Raza</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/ahsanmunyr">
+          <SocialIcons href="https://github.com/HassanRazaMuhammadTufail">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/ahsan-muneer">
+          <SocialIcons href="https://www.linkedin.com/in/hassan-memon">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
         </SocialContainer>

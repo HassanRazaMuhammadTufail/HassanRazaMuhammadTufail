@@ -1,22 +1,11 @@
-## Run Project 
+# Hello there 👋, I'm Hassan Raza
 
-Run this project with Yarn
+### Software/Cloud Engineer
 
-```bash 
-  yarn && yarn run dev
-```
-    
-## Deployment
+- 🔭 I’m currently working on: __Software Engineering, Managing and Leading Startup product__ 
+- 🌱 I’m currently learning: __Cloud, Blockchain__
+- 💬 Ask me about __Software Engineering, Cloud Engineering (AWS), CI/CD, Docker, Product Development Lifecycle...__
+- 🌏 Urdu name: __حسن رضا__
+- 😄 Pronouns: He. Him. His.
 
-To deploy this project run
-
-```bash
-  yarn build
-```
-
-  
-
-
-
-
-  
+<br/>

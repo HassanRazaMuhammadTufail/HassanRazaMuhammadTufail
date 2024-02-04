@@ -7,7 +7,8 @@ import {
   Link,
   Img,
   My_Section,
-  My_SectionTitle
+  My_SectionTitle,
+  IntroName
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
@@ -18,16 +19,16 @@ const Hero = (props) => (
       <LeftSection>
         <My_Section row nopadding>
           <Img src="/images/img.png" />
-          <My_SectionTitle center> Sr. React Native Developer</My_SectionTitle>
+          <My_SectionTitle center> Sr. Full Stack Engineer</My_SectionTitle>
         </My_Section>
         <SectionTitle main center>
           Hey there,
         </SectionTitle>
         <SectionText>
-          This is Ahsan Muneer. Inquisitive and Highly-motivated software
-          engineer, with strong web and mobile application skills.
-          Forward-thinker by nature and loves to code. Spends most of my time
-          learning and experimenting with anything that looks promising.
+          This is <IntroName>Hassan Raza</IntroName>. Passionate, Dynamic and Highly-motivated Seasoned Software
+          Engineer, with expertise in full stack engineering. Having good experience in managing 
+          and leading teams. Proactive and collaborative by nature. Interests in learning,
+          networking and experimenting with new technologies around.
         </SectionText>
         <Button
           onClick={(e) => {

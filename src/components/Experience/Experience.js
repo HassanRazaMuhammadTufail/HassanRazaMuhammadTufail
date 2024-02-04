@@ -13,6 +13,7 @@ import {
   TitleContent,
   UtilityList,
   Img,
+  JobPoints
 } from "./ExperienceStyle";
 import {
   Section,
@@ -34,35 +35,29 @@ const Experience = () => (
             marginLeft: 10,
           }}
         >
-          <HeaderThree>Artistic Denim Mills (Fascom)</HeaderThree>
+          <HeaderThree>Clozer.io</HeaderThree>
           <TagList>
-            <Tag>Software Engineer - React Native Developer</Tag>
+            <Tag>Sr. Software Engineer - Full Stack</Tag>
           </TagList>
-          <HeaderFour>Mar 2022 - Jul 2023</HeaderFour>
+          <HeaderFour>Sept 2023 - Present</HeaderFour>
         </div>
 
         <CardInfo className="card-info">
-          - Working and Integration of Native Modules Like Banuba, Meicom, and
-          AWS chime, AWS IVS, and live streaming.
-          <br />- Use Native APIs for tight integrations with both platforms –
-          Android and iOS.
-          <br />- Write automated tests to ensure error-free code and
-          performance.
-          <br />- Work with third-party dependencies and APIs.
-          <br />- Work with Redux architecture to improve the performance of the
-          websites/mobile apps.
-          <br />- Working with large teams and making successful products like
-          Longaberger and KB-shop Apps.
+          - Managing and Upgrading the backend and frontend, adding features, optimizing, and refactoring.
+          <br />
+          - Integrating 3rd party music platforms in our system.
+          <br />
+          - Updated Authentication flow on the frontend.
         </CardInfo>
         <div></div>
         <UtilityList>
-          <ExternalLinks
+          {/* <ExternalLinks
             href={
               "https://www.linkedin.com/in/ahsan-muneer/overlay/1635538440061/single-media-viewer/?profileId=ACoAAB09QVIBm1PJsyNgXjwRNJ_P3FveLEE3hAM"
             }
           >
             Experience Letter
-          </ExternalLinks>
+          </ExternalLinks> */}
         </UtilityList>
       </BlogCard>
       <BlogCard>
@@ -73,34 +68,41 @@ const Experience = () => (
             marginLeft: 10,
           }}
         >
-          <HeaderThree>Outsource in Pakistan</HeaderThree>
+          <HeaderThree>Consultancy and Contracts (Independent)</HeaderThree>
           <TagList>
-            <Tag>Sr. Executive - React Native Developer</Tag>
+            <Tag>Software Consultant</Tag>
           </TagList>
-          <HeaderFour>Apr 2021 - Mar 2022</HeaderFour>
+          <HeaderFour>Jan 2023 - Sept 2023</HeaderFour>
         </div>
         <CardInfo className="card-info">
-          - Contribute to all phases of the development life cycle.
-          <br />- Develop and deploy new features to facilitate related
-          procedures and tools if necessary.
-          <br />- Designing the application according to specifications.
-          <br />- Write well designed, testable, efficient code by using best
-          software development practices.
-          <br />- Integrate data from various back-end services and databases
-          <br />- Making multiple white-label apps like the Restaurant App and
-          Rider App, Booking App, and Bmad Dating App.
-          <br />- Working small websites with Next.js and React.js, also make
-          multiple APIs using nodejs.
+          • During this period I worked as a consultant to different Software businesses around the Middle East and the USA.
+          <br />
+          <br />
+          • Sendmeatrainer/SendmeaPro
+          <br />
+          <JobPoints>- Worked on the whole product infrastructure and architecture including mobile, web, admin, backend, and CRM integrations.</JobPoints>
+          <br />
+          <JobPoints>- Added new features designing the database, developing UX, and managing timeline.</JobPoints>
+          <br />
+          <br />
+          • GPS Dataviz
+          <br />
+          <JobPoints>- Worked on Frontend adding features, collaborating with clients about how can we make it more useful by adding simplified features and easy UX.</JobPoints>
+          <br />
+          <br />
+          • Skip the call
+          <br />
+          <JobPoints>- Redefined application architecture backend mostly including new database designs and code infrastructure.</JobPoints>
         </CardInfo>
         <div></div>
         <UtilityList>
-          <ExternalLinks
+          {/* <ExternalLinks
             href={
               "https://drive.google.com/file/d/1VcvodWu2yctXfSmXK4H1PcNK5yPSW0w_/view"
             }
           >
             Experience Letter
-          </ExternalLinks>
+          </ExternalLinks> */}
         </UtilityList>
       </BlogCard>
       <BlogCard>
@@ -111,34 +113,148 @@ const Experience = () => (
             marginLeft: 10,
           }}
         >
-          <HeaderThree>Linkitsoft</HeaderThree>
+          <HeaderThree>Corel Corporation</HeaderThree>
           <TagList>
-            <Tag>React Native Developer</Tag>
+            <Tag>Software Engineer</Tag>
           </TagList>
-          <HeaderFour>Aug 2020 - Apr 2021</HeaderFour>
+          <HeaderFour>Aug 2022 - Dec 2022</HeaderFour>
         </div>
 
         <CardInfo className="card-info">
-          - Develop and Design Android IOS mobile apps. Creating web and mobile
-          APIs in Asp.net, Integrating Payment Systems like Gkash and Stripe
-          payment. Also Integrating Firebase Cloud Messaging FCM, Push
-          Notifications, Third-Party APIs Integrating and Google map APIs.
-          Managing and Testing Mobile UI and UX.
-          <br />- Working with a small team, multiple small apps like the
-          Attendance App using a QR code, employee check-in and check-out using
-          this app, the Foodosti App like Foodpanda working live tracking using
-          Firebase socket, and Kiosk vendor app the In-App Purchase App using
-          Gkash Payment Gateway.
+          - Significantly improved existing features, resolved bugs, and conducted comprehensive testing for Corel Vector products.
+          <br />
+          - Spearheaded a new project targeting casual designers, orchestrating successful teamwork and project initiation.
+          <br />
+          - Led the creation of a web-based frontend using Reactjs and TypeScript, from design inception to implementation.
+          <br />
+          - Enhanced graphics engine efficiency through targeted fixes and optimizations, resulting in performance gains.
+          <br />
+          - Designed and implemented Invoice PDF generation, setting the groundwork for an upcoming Subscription Feature.
         </CardInfo>
         <div></div>
         <UtilityList>
-          <ExternalLinks
+          {/* <ExternalLinks
             href={
               "https://drive.google.com/file/d/10YkIzsLGZgQvwLmNFT07uKNzfRCCTeYn/view?usp=drive_link"
             }
           >
             Experience Letter
-          </ExternalLinks>
+          </ExternalLinks> */}
+        </UtilityList>
+      </BlogCard>
+      <BlogCard>
+        <div
+          style={{
+            flexDirection: "row",
+            display: "flex",
+            marginLeft: 10,
+          }}
+        >
+          <HeaderThree>Bykea</HeaderThree>
+          <TagList>
+            <Tag>Software Engineer</Tag>
+          </TagList>
+          <HeaderFour>Dec 2020 - Mar 2022</HeaderFour>
+        </div>
+
+        <CardInfo className="card-info">
+          - Led and managed cross-functional teams, overseeing sprints, deliverables, and sprint planning, while also estimating project timelines.
+          <br />
+          - Engineered a robust support system for the CSR department, utilizing TypeScript, Nestjs, Reactjs, AWS DocumentDB, and Redis cache. Managed staging environments for QA on Linux servers.
+          <br />
+          - Integrated Kafka to replace Rabbitmq within internal services for streamlined event sourcing.
+          <br />
+          - Revamped and optimized back office and support system portal, enhancing server efficiency and overall performance.
+          <br />
+          - Collaborated in the successful launch of a supermarket feature, contributing to enhanced user experiences.
+          <br />
+          - Resolved live issues related to Queues, addressing TTL & delay concerns, providing support to the head of engineering.
+          <br />
+          - Efficiently optimized Redis cache usage by eliminating redundant keys, resulting in a nearly 50% reduction in cache size.
+          <br />
+          - Orchestrated database migrations and facilitated the deployment of microservices on staging servers.
+        </CardInfo>
+        <div></div>
+        <UtilityList>
+          {/* <ExternalLinks
+            href={
+              "https://drive.google.com/file/d/10YkIzsLGZgQvwLmNFT07uKNzfRCCTeYn/view?usp=drive_link"
+            }
+          >
+            Experience Letter
+          </ExternalLinks> */}
+        </UtilityList>
+      </BlogCard>
+      <BlogCard>
+        <div
+          style={{
+            flexDirection: "row",
+            display: "flex",
+            marginLeft: 10,
+          }}
+        >
+          <HeaderThree>Expando</HeaderThree>
+          <TagList>
+            <Tag>Full Stack Engineer</Tag>
+          </TagList>
+          <HeaderFour>July 2019 - Dec 2020</HeaderFour>
+        </div>
+
+        <CardInfo className="card-info">
+          - Oversaw database migrations and managed cron jobs, ensuring seamless data management and task scheduling.
+          <br />
+          - Upgraded and managed a web annotator tool built with Vue.js and Node.js, enhancing its functionality and user experience.
+          <br />
+          - Led the creation of a web-based frontend using Reactjs and TypeScript, from design inception to implementation.
+          <br />
+          - Spearheaded the development of the backend for a Ridesharing app and the frontend of an admin portal.
+          <br />
+          - Implemented live location sharing using SSE, enhancing real-time communication and tracking capabilities.
+          <br />
+          - Led the creation of video calling and chat applications, integrating HTML canvas for interactive drawing features.
+          <br />
+          - Engineered AWS Lambda functions to initiate EC2 Instances via API calls, streamlining server management and scaling.
+        </CardInfo>
+        <div></div>
+        <UtilityList>
+          {/* <ExternalLinks
+            href={
+              "https://drive.google.com/file/d/10YkIzsLGZgQvwLmNFT07uKNzfRCCTeYn/view?usp=drive_link"
+            }
+          >
+            Experience Letter
+          </ExternalLinks> */}
+        </UtilityList>
+      </BlogCard>
+      <BlogCard>
+        <div
+          style={{
+            flexDirection: "row",
+            display: "flex",
+            marginLeft: 10,
+          }}
+        >
+          <HeaderThree>Panacloud</HeaderThree>
+          <TagList>
+            <Tag>Junior Full Stack Developer</Tag>
+          </TagList>
+          <HeaderFour>Jan 2018 - Feb 2019</HeaderFour>
+        </div>
+
+        <CardInfo className="card-info">
+          - Enthusiastically acquired skills in constructing efficient web applications with streamlined code and user-friendly functionalities.
+          <br />
+          - Delved into React Native for mobile app development and honed expertise in Nestjs for backend solutions.
+        </CardInfo>
+        <div></div>
+        <UtilityList>
+          {/* <ExternalLinks
+            href={
+              "https://drive.google.com/file/d/10YkIzsLGZgQvwLmNFT07uKNzfRCCTeYn/view?usp=drive_link"
+            }
+          >
+            Experience Letter
+          </ExternalLinks> */}
         </UtilityList>
       </BlogCard>
     </GridContainer>
