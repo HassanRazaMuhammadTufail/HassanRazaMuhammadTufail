@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Hassan Raza
 
-### AI Software Engineer
+### Senior Software Consultant | AI & IT Architect
 
 - 🔭 I’m currently working on: __Software Engineering, Managing and Leading Startup product__ 
 - 🌱 I’m currently learning: __Leadership, Management__
